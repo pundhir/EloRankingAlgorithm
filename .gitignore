@@ -33,6 +33,7 @@ proguard/
 captures/
 
 # Intellij
+.DS_Store
 *.iml
 .idea/workspace.xml
 .idea/tasks.xml
